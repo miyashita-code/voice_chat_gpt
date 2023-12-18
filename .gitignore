@@ -1,0 +1,5 @@
+# Ignore virtual environment
+voice_chat_gpt/venv/
+
+# Ignore debug directory
+voice_chat_gpt/debug/
