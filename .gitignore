@@ -1,5 +1,0 @@
-# Ignore virtual environment
-venv/
-
-# Ignore debug directory
-debug/
